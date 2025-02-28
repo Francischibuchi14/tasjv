@@ -52,7 +52,7 @@ const Task = ({ task, provided }: TaskProps) => {
 				<div
 					className={`w-[60px] rounded-full h-[5px] ${
 						priority === "high"
-							? "bg-red-500"
+							? "bg-blue-500"
 							: priority === "medium"
 							? "bg-orange-500"
 							: "bg-blue-500"

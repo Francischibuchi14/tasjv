@@ -16,6 +16,7 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 .idea
+React-Task-Management/
 .DS_Store
 *.suo
 *.ntvs*
